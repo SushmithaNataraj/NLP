@@ -1,0 +1,16 @@
+PARSING SENTENCE: I fish
+NUMBER OF PARSES FOUND: 1
+TABLE:
+Cell[1,1]: NP
+Cell[1,2]: S
+Cell[2,2]: NP VP
+
+
+PARSING SENTENCE: trust shrinks
+NUMBER OF PARSES FOUND: 2
+TABLE:
+Cell[1,1]: NP VP
+Cell[1,2]: S S
+Cell[2,2]: NP VP
+
+
