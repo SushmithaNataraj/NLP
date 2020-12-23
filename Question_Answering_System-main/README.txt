@@ -28,7 +28,7 @@ Paarth:
 Sushmita and Paarth:
 Created the infra for applying rules to the sentences depending on the question
 
-Github profile: https://github.com/paarthlakhani/Question_Answering_System
+Github profile: https://github.com/SushmithaNataraj/NLP/tree/master/Question_Answering_System-main
 Paper reference: https://www.cs.utah.edu/~riloff/pdfs/quarc.pdf
 
 Instructions to run the file:
